@@ -1,0 +1,60 @@
+body{
+    background: url("../images/background.png");
+    height: 100%;
+    background-repeat: no-repeat;
+    
+}
+
+h1{
+    font-family: 'Rock Salt', cursive;
+    font-size: 60px;
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+.main-content{
+    background: #6FD5DA;
+    border-radius: 200px;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: #F5F904;
+    width: 400px;
+    height: 400px;
+    margin-top: 90px;
+}
+
+.rule{
+    font-family: 'Give You Glory', cursive;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+    
+}
+
+.game, .letters, .letterHead{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    
+}
+
+.game{
+    margin-bottom: 50px;
+}
+
+#scoreboard1, #scoreboard2{
+    font-family: 'Indie Flower', cursive;
+    text-align: left;
+    top: 0px;
+    position: relative;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+#tries{
+    width:100%;
+}
+
