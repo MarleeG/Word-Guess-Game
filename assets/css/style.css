@@ -26,7 +26,7 @@ h1{
     margin-top: 90px;
 }
 
-.rule{
+.rule, .sub-rule{
     font-family: 'Give You Glory', cursive;
     font-size: 30px;
     text-align: center;
@@ -56,5 +56,10 @@ h1{
 
 #tries{
     width:100%;
+}
+
+.sub-rule{
+    font-size: 15px;
+    margin-top: 2px;
 }
 
